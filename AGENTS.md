@@ -1,5 +1,7 @@
 # Agent Instructions
 
+> new version
+
 ## Pace
 
 - Slow down. Draft changes and show them before applying. Rushing leads to mistakes that take longer to fix than doing it right the first time.
