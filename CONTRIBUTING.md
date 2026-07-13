@@ -1,5 +1,6 @@
 # Contributing
 
+Updating contributions
 
 > Make sure to read the [README](README.md) first!
 
