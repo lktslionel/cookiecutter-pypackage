@@ -231,10 +231,10 @@ def print_pypi_trusted_publisher_instructions():
 
 
 if __name__ == "__main__":
-    repo_created = create_github_repo()
-    if repo_created:
-        enable_github_pages()
-        create_pypi_environment()
+    #repo_created = create_github_repo()
+    #if repo_created:
+    #    enable_github_pages()
+    #    create_pypi_environment()
     #git_init_and_push(repo_created)
     #print_pypi_trusted_publisher_instructions()
     print("Your Python package project has been created successfully!")
